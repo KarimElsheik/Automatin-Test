@@ -87,5 +87,6 @@ public class Automation {
     public void Properties() {
         PropertiesReader.loadProperties();
     }
+    //[poihgj
 
 }
