@@ -20,7 +20,7 @@ public class Automation {
     WebDriver driver;
     private JsonFileManager testData;
 
-
+// mnnbolkj
 
     @Test
     @Description("Sign up successfully and delete the account")
@@ -87,6 +87,6 @@ public class Automation {
     public void Properties() {
         PropertiesReader.loadProperties();
     }
-    //
+    //[poihgj
 
 }
