@@ -20,7 +20,7 @@ public class Automation {
     WebDriver driver;
     private JsonFileManager testData;
 
-// mnnbolkjj
+
 
     @Test
     @Description("Sign up successfully and delete the account")
